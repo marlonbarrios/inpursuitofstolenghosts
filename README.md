@@ -1,7 +1,10 @@
 ```markdown
 # In Pursuit of Stolen Ghosts | Duet in Latent Space | Generatiuve Gersion
 
-![Watch the Video](https://github.com/marlonbarrios/inpursuitofstolenghosts/assets/90220317/2fac4322-369d-4207-ad9f-751ff74ccfbd)
+
+
+https://github.com/marlonbarrios/inpursuitofstolenghosts/assets/90220317/06bb6ec0-0e8d-451a-a11f-259388079b13
+
 
 ## About the Project
 
