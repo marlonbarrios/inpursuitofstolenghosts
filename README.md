@@ -1,4 +1,4 @@
-# In Pursuit of Stolen Ghosts | Duet in Latent Space | Generatiuve Gersion
+# In Pursuit of Stolen Ghosts | Duet in Latent Space | Generative Version
 
 
 
