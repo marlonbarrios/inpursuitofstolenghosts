@@ -1,11 +1,7 @@
 ```markdown
-# In Pursuit of Stolen Ghosts | Duet in Latent Space
+# In Pursuit of Stolen Ghosts | Duet in Latent Space | Generatiuve Gersion
 
-
-
-
-https://github.com/marlonbarrios/inpursuitofstolenghosts/assets/90220317/2fac4322-369d-4207-ad9f-751ff74ccfbd
-
+[![Watch the Video](https://github.com/marlonbarrios/fall-ai-turbo/blob/mondrian/public/ghost.png)](https://github.com/marlonbarrios/inpursuitofstolenghosts/assets/90220317/2fac4322-369d-4207-ad9f-751ff74ccfbd)
 
 ## About the Project
 
